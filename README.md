@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Here are a list of features that our application will have:
+
+User can select a table. If the user selects an already selected table, it will deselect it.\
+User can check in/ check out a selected table. Checking out should clear the table items and add the bill total to the total money earned value.
+User can add items to the selected table if it is checked in
+User can delete items from selected table if it is checked in
+
+
+### The user should also be able to see:
+
+Currently selected table
+Total number of tables available to be checked in.
+Which tables are checked in / checked out
+All the ordered items from the selected table
+The total bill for the selected table
+The total amount of money earned from checked out tables
